@@ -1,0 +1,145 @@
+{
+    "language_code": "id",
+    "english_name": "Indonesian",
+    "worksheets": [
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Kisah Allah (Pengorbanan Pertama dan Terakhir)",
+            "filename": "Kisah_Allah_(Pengorbanan_Pertama_dan_Terakhir).html",
+            "version": "2.2"
+        },
+        {
+            "page": "Baptism",
+            "title": "Baptisan",
+            "filename": "Baptisan.html",
+            "version": "2.1",
+            "pdf": "Baptisan.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Doa",
+            "filename": "Doa.html",
+            "version": "1.1",
+            "pdf": "Doa.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Langkah-Langkah Pengampunan",
+            "filename": "Langkah-Langkah_Pengampunan.html",
+            "version": "1.2",
+            "pdf": "Langkah-Langkah_Pengampunan.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "Mengakui Dosa dan Bertobat",
+            "filename": "Mengakui_Dosa_dan_Bertobat.html",
+            "version": "1.1",
+            "pdf": "Mengakui_Dosa_dan_Bertobat.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Waktu bersama Tuhan",
+            "filename": "Waktu_bersama_Tuhan.html",
+            "version": "1.2",
+            "pdf": "Waktu_bersama_Tuhan.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Mendengar dari Tuhan",
+            "filename": "Mendengar_dari_Tuhan.html",
+            "version": "1.2"
+        },
+        {
+            "page": "Church",
+            "title": "Gereja",
+            "filename": "Gereja.html",
+            "version": "2.0",
+            "pdf": "Gereja.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Penyembuhan",
+            "filename": "Penyembuhan.html",
+            "version": "1.0",
+            "pdf": "Penyembuhan.pdf"
+        },
+        {
+            "page": "My_Story_with_God",
+            "title": "Kisahku bersama Tuhan",
+            "filename": "Kisahku_bersama_Tuhan.html",
+            "version": "1.1",
+            "pdf": "Kisahku_bersama_Tuhan.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Tips Membaca Alkitab",
+            "filename": "Tips_Membaca_Alkitab.html",
+            "version": "2.0",
+            "pdf": "Tips_Membaca_Alkitab.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Tips Membaca Alkitab (Tujuh Cerita Penuh Pengharapan)",
+            "filename": "Tips_Membaca_Alkitab_(Tujuh_Cerita_Penuh_Pengharapan).html",
+            "version": "2.0",
+            "pdf": "Tips_Membaca_Alkitab_(Tujuh_Cerita_Penuh_Pengharapan).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Tips Membaca Alkitab (Dimulai dengan Penciptaan)",
+            "filename": "Tips_Membaca_Alkitab_(Dimulai_dengan_Penciptaan).html",
+            "version": "2.0",
+            "pdf": "Tips_Membaca_Alkitab_(Dimulai_dengan_Penciptaan).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Tiga-Pertiga Proses",
+            "filename": "Tiga-Pertiga_Proses.html",
+            "version": "1.0",
+            "pdf": "Tiga-Pertiga_Proses.pdf"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Garis Besar Pelatihan",
+            "filename": "Garis_Besar_Pelatihan.html",
+            "version": "1.0"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Doa Harian",
+            "filename": "Doa_Harian.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Mengatasi Rasa Takut dan Amarah",
+            "filename": "Mengatasi_Rasa_Takut_dan_Amarah.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Family_and_our_Relationship_with_God",
+            "title": "Keluarga dan hubungan kita bersama Allah",
+            "filename": "Keluarga_dan_hubungan_kita_bersama_Allah.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Leading_Others_Through_Forgiveness",
+            "title": "Memimpin Orang Lain Melalui Pengampunan",
+            "filename": "Memimpin_Orang_Lain_Melalui_Pengampunan.html",
+            "version": "1.0"
+        },
+        {
+            "page": "The_Role_of_a_Helper_in_Prayer",
+            "title": "Peran Penolong dalam Doa",
+            "filename": "Peran_Penolong_dalam_Doa.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Empat Jenis Murid",
+            "filename": "Empat_Jenis_Murid.html",
+            "version": "1.1",
+            "pdf": "Empat_Jenis_Murid.pdf"
+        }
+    ]
+}
