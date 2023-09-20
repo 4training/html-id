@@ -3,12 +3,6 @@
     "english_name": "Indonesian",
     "worksheets": [
         {
-            "page": "God's_Story_(first_and_last_sacrifice)",
-            "title": "Kisah Allah (Pengorbanan Pertama dan Terakhir)",
-            "filename": "Kisah_Allah_(Pengorbanan_Pertama_dan_Terakhir).html",
-            "version": "2.2"
-        },
-        {
             "page": "Baptism",
             "title": "Baptisan",
             "filename": "Baptisan.html",
@@ -42,12 +36,6 @@
             "filename": "Waktu_bersama_Tuhan.html",
             "version": "1.2",
             "pdf": "Waktu_bersama_Tuhan.pdf"
-        },
-        {
-            "page": "Hearing_from_God",
-            "title": "Mendengar dari Tuhan",
-            "filename": "Mendengar_dari_Tuhan.html",
-            "version": "1.2"
         },
         {
             "page": "Church",
@@ -97,42 +85,6 @@
             "filename": "Tiga-Pertiga_Proses.html",
             "version": "1.0",
             "pdf": "Tiga-Pertiga_Proses.pdf"
-        },
-        {
-            "page": "Training_Meeting_Outline",
-            "title": "Garis Besar Pelatihan",
-            "filename": "Garis_Besar_Pelatihan.html",
-            "version": "1.0"
-        },
-        {
-            "page": "A_Daily_Prayer",
-            "title": "Doa Harian",
-            "filename": "Doa_Harian.html",
-            "version": "1.0"
-        },
-        {
-            "page": "Overcoming_Fear_and_Anger",
-            "title": "Mengatasi Rasa Takut dan Amarah",
-            "filename": "Mengatasi_Rasa_Takut_dan_Amarah.html",
-            "version": "1.0"
-        },
-        {
-            "page": "Family_and_our_Relationship_with_God",
-            "title": "Keluarga dan hubungan kita bersama Allah",
-            "filename": "Keluarga_dan_hubungan_kita_bersama_Allah.html",
-            "version": "1.0"
-        },
-        {
-            "page": "Leading_Others_Through_Forgiveness",
-            "title": "Memimpin Orang Lain Melalui Pengampunan",
-            "filename": "Memimpin_Orang_Lain_Melalui_Pengampunan.html",
-            "version": "1.0"
-        },
-        {
-            "page": "The_Role_of_a_Helper_in_Prayer",
-            "title": "Peran Penolong dalam Doa",
-            "filename": "Peran_Penolong_dalam_Doa.html",
-            "version": "1.0"
         },
         {
             "page": "Four_Kinds_of_Disciples",
